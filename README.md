@@ -7,7 +7,7 @@ I am developing this because I hate having so many tabs open on Chrome just to k
 
 *Make sure that, if you clone this repo, you rename the config_template.json file to just "config.json"*
 
-### TOTO
+### TODO
 
 * Add functionality to connnect to canvas
 * Create a controller object to multithread the calls to Canvas and Sakai
