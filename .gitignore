@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 #Adding my config.json to gitignore so I do not accidentally post a config file with my login credentials
-config.json
+/config.json
 
 # Distribution / packaging
 .Python
